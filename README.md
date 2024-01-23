@@ -29,6 +29,7 @@ Open source and free!
 Easy to adapt templates. Hamster code takes less than a kilobyte! shock!
 
 http://old.net.eu.org/ - follow the news, and download new templates
+
 http://old.net.eu.org/index.php?p=faq.txt - detailed instructions
 
 What is all this for?
