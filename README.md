@@ -11,13 +11,21 @@ http://old.net.eu.org/ascii32/admin.php - admin panel
 This assembly works on PHP 5 or 7 versions
 
 No database required!
+
 You only need one file to work!
+
 Works on PHP versions 5.6 and higher (7 and higher recommended)
+
 Just copy the files to the server (or hosting). No settings needed.
+
 Perfect for a simple home page.
+
 The hamster works very quickly.
+
 The hamster code is simple and clear!
+
 Open source and free!
+
 Easy to adapt templates. Hamster code takes less than a kilobyte! shock!
 
 http://old.net.eu.org/ - follow the news, and download new templates
