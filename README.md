@@ -1,6 +1,6 @@
 # HamsterCMS with table layout
 HamsterCMS home page theme HTML 3.2 and only ASCII characters and text
-Opens well in Internet Explorer 5, LINKS (DOS), and modern browsers.
+Opens well in Internet Explorer 5, LINKS browser (DOS), and modern browsers.
 
 HamsterCMS is the world's smallest and very simple flatfile content management system.
 
