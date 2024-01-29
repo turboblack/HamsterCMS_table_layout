@@ -1,6 +1,6 @@
 # HamsterCMS with table layout
 HamsterCMS home page theme HTML 3.2 and only ASCII characters and text
-Opens well in Internet Explorer 5, LYNX (DOS), and modern browsers.
+Opens well in Internet Explorer 5, LINKS (DOS), and modern browsers.
 
 HamsterCMS is the world's smallest and very simple flatfile content management system.
 
@@ -55,7 +55,7 @@ For the script to work, you only need free hosting with support for PHP 7.4 (alt
 
 articles that we create in the admin panel and save below in the bottom menu by writing ./article.txt and click save. This creates a page that is not visible in the navigation bar, but will be visible separately on the page where we place the link index.php?p=article.txt
 
-I deliberately did not write copyrights in the template, because you are erasing them)))
+I deliberately did not write copyrights in the template, because you are erasing them))))
 
 in addition, with copyrights the template will not look authentic
 
