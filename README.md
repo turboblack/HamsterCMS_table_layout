@@ -14,7 +14,7 @@ No database required!
 
 You only need one file to work!
 
-Works on PHP versions 5.6 and higher (7 and higher recommended)
+Works on PHP without preinstalled frameworks
 
 Just copy the files to the server (or hosting). No settings needed.
 
