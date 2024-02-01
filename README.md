@@ -8,7 +8,7 @@ http://old.net.eu.org/ascii32/ - this is what cms looks like
 
 http://old.net.eu.org/ascii32/admin.php - admin panel (login password)
 
-This assembly works on PHP 5 or 7 versions
+This assembly works on PHP  5,3 to 7,4 versions
 
 No database required!
 
