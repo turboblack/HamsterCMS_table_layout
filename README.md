@@ -4,10 +4,6 @@ Opens well in Internet Explorer 5, LINKS browser (DOS), and modern browsers.
 
 HamsterCMS is the world's smallest and very simple flatfile content management system.
 
-http://old.net.eu.org/ascii32/ - this is what cms looks like
-
-http://old.net.eu.org/ascii32/admin.php - admin panel (login password)
-
 This assembly works on PHP  5,3 to 7,4 versions
 
 No database required!
