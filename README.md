@@ -59,6 +59,14 @@ I deliberately did not write copyrights in the template, because you are erasing
 
 in addition, with copyrights the template will not look authentic
 
+I invite you to visit the hosting that runs on this CMS
+
+http://w10.host
+
+works with both old and new technologies, and backward compatible
+
 Enjoy your use.
+
+**to support the project - PAYPAL: turboblack@ukr.net**
 
 thank you for your attention
